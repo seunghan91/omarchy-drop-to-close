@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.seunghan91.drop-to-close",
+  "name": "Drop to Close",
+  "version": "1.0.0",
+  "author": "seunghan91",
+  "description": "Drag a window with SUPER + left mouse and a small trash tile appears at the bottom center of the screen. Drop the window on it to close it (graceful close, apps can still ask to save).",
+  "kinds": [
+    "panel"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "DropToClose.qml"
+  }
+}
