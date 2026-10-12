@@ -4,6 +4,8 @@ Close windows the way you'd throw something away on a Mac: drag a window with
 **SUPER + left mouse**, and a small trash tile appears at the bottom center of
 the screen. Drop the window on it and the window closes.
 
+![Drop to Close: dropping a window on the trash tile](preview.png)
+
 - **Graceful close, not a kill.** Apps still get the chance to ask
   "save changes?".
 - **Sized for your screen.** The tile is 7.5% of the monitor's short side
